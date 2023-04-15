@@ -9,4 +9,5 @@ Introducing Go programing language - syntax, differences to other languages and 
 ●            Data serialization
 ●            Abstraction in Go - interfaces
 ●            Concurrent model - goroutines
+
 #GoLangDay002
